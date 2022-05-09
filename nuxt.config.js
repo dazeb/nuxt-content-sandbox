@@ -7,6 +7,6 @@ export default theme({
    */
   content: {
     // Disable for security reason on CodeSandBox
-    liveEdit: false
+    liveEdit: true
   }
 });
